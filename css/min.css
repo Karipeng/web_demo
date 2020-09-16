@@ -105,11 +105,24 @@ body {
 	cursor: pointer;
 	width: 55%;
 }
+.btn-img-font{
+	margin-left: 5%;
+	margin-top: 15px;
+	width: 100%;
+	
+}
+
 .btn-img2 {
 	margin-left: 36%;
 	margin-top: 5px;
 	cursor: pointer;
 	width: 55%
+}
+.btn-img3 {
+	margin-left: 42%;
+	margin-top: 8%;
+	cursor: pointer;
+	width: 60%
 }
 .x-btn35 {
 	margin-top: 35px;
