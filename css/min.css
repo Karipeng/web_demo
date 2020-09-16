@@ -4,6 +4,7 @@
 	padding-right: 5px;
 }
 body {
+	-webkit-text-size-adjust: 100%;
 	background-color: #cfa04d;
 	margin: 0;
 	padding: 0;
